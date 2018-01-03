@@ -1,0 +1,2 @@
+class OrangesController < ApplicationController
+end
